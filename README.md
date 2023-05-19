@@ -1,16 +1,8 @@
 # sherwan.github.io
-# Example website
+# Dr. Sherwan Mohammed Najm
 
-This is a [static
-site](https://www.netguru.com/blog/what-are-static-site-generators)
-set up similarly to my [personal
-website](https://intuitiveexplanations.com/), but much simpler. It
-should be suitable as a starting point for anyone to create their own
-personal website. Of course, the appearance can be modified by telling
-[Jekyll](https://jekyllrb.com/) to use a different
-[theme](https://jekyllthemes.io/). This may require more effort than
-it should, due to issues with layout includes (see below), but it
-should be totally feasible.
+Dr. Sherwan earned a B.Sc. and an M.Sc. in Dia and Tools Techniques from Middle Technical University in 2007 and 2014.
+In 2022, he got his Ph.D. from the [Faculty of Mechanical Engineering](https://gpk.bme.hu/en/content/38), Department of [Manufacturing Science and Engineering](https://manuf.bme.hu/?lang=en) at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), Hungary. He has taken part in several research projects, including ???? (?????). He was a reviewer for various highly-ranked journals and conference proceedings. He now serves on the editorial board of the journal Materials (IF 3.74, ISSN 2222-2222). His primary research interests are in Incremental SheetForming.
 
 ## Software stack
 
